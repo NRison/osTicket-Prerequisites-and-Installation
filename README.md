@@ -3,7 +3,7 @@
 </p>
 
 <h1>Nahshon's osTicket Installation Tutorial</h1>
-Within this tutorial we will present a clear flow of how to instal the help desk ticketing system osTicket.<br />
+Within this tutorial we will present a clear flow of how to install the help desk ticketing system osTicket.<br />
 
 <h2>The Various Components Used and Discussed</h2>
 
