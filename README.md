@@ -2,36 +2,30 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Nahshon's osTicket Installation Tutorial</h1>
+Within this tutorial we will present a clear flow of how to instal the help desk ticketing system osTicket.<br />
 
+<h2>The Various Components Used and Discussed</h2>
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- PHP (Hypertext Preprocessor)
+- Windows 10 Virtual Machine (Microsoft Azure)
+- Microsoft Azure (Virtual Machines)
 - Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Microsoft Azure Virtual Machine (Windows 10)</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Installation Steps</h2>
+- Mysql
+- URL Rewrite Module
+- PHP Manager
+- CGI (Common Gateway Interface)
+- Visual C++ Redistributable
+- Inetpub, WWWroot Folders
+- Other PHP extentions
+- HeidiSql
 
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
+
+*Tip* <b>Right click to open in another tab otherwise it takes you to YouTube.</b> *Tip*
+
+
+<a href="https://www.youtube.com/watch?v=MB06WwzNIFQ&t=1527s"><img width="723" alt="Screen Shot 2025-03-08 at 12 57 36 PM" src="https://github.com/user-attachments/assets/22f64569-226d-431c-a135-fafbc935b9ad" />
+ </a>
